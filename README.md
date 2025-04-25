@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/b159443f-f332-4b1c-8057-3ae599ffced5
 
-## 프로젝트명 : A Star 이 
+## 프로젝트명 : A Star 이동 
 #### 키 입력을 통해 실시간으로 결과를 도출하는 A* 알고리즘 프로그램 구현
 
 
