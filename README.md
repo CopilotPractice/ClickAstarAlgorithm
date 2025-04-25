@@ -1,4 +1,3 @@
+https://github.com/user-attachments/assets/b159443f-f332-4b1c-8057-3ae599ffced5
 
-
-Uploading AStar_실행영상_김찬회_1.mp4…
 
